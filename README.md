@@ -1,9 +1,12 @@
 # Fashion_Image_Classification_Project_v2
-The goal of this project was to create a multi-label image classificaion algorithm that can detect both the colour and category of clothing article present in an image.
+The goal of this project was to create a multi-label image classificaion algorithm that can detect both the colour and the category of an article of clothing in an image.
 
 In order to solve this problem I built out an algorithm in keras usind SmallerVGGNet neural network structure. This is a simplified version of the VGGNet model was first introduced by Simonyan and Zisserman in their 2014 paper, Very Deep Convolutional Networks for Large Scale Image Recognition.
 
-I then trained this network in a supervised learning fashion using approximately 2,200 images which I had scraped from the web.
+I then trained this network in a supervised learning fashion using approximately 2,200 images which I had scraped from the web. The network is only trained to recognize the following categories and colours:
+
+Category: Jeans, Dress, Shirt
+Colour: Red, Blue, Black
 
 The results from running the classify.py script on unseen fashion image examples can be seen below:
 
