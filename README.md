@@ -10,4 +10,4 @@ The results from running the classify.py script on unseen fashion image examples
 
 ![Screen Shot 2021-02-24 at 20 38 56](https://user-images.githubusercontent.com/71552393/109056191-6ab60e00-76e0-11eb-8e28-322b7db1e1c9.png)
 
-![Screen Shot 2021-02-24 at 20 35 28](https://user-images.githubusercontent.com/71552393/109055905-0dba5800-76e0-11eb-9304-46e592f9f2db.png)
+![Screen Shot 2021-02-24 at 20 50 23](https://user-images.githubusercontent.com/71552393/109057444-06944980-76e2-11eb-930e-55c29eff001e.png)
