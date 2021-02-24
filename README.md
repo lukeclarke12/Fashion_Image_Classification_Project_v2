@@ -6,6 +6,7 @@ In order to solve this problem I built out an algorithm in keras usind SmallerVG
 I then trained this network in a supervised learning fashion using approximately 2,200 images which I had scraped from the web. The network is only trained to recognize the following categories and colours:
 
 Category: Jeans, Dress, Shirt
+
 Colour: Red, Blue, Black
 
 The results from running the classify.py script on unseen fashion image examples can be seen below:
